@@ -1,9 +1,5 @@
 # Unity3D-Sunset
-
-Sunset Point, NCAOR Campus, Vasco, Goa, India.
-Some years ago, when I was in middle school in India. My father, a government employee, was posted in Goa at the National Center for Antarctic and Ocean Research. We lived in the residential area of this office campus.
-Goa is a coastal tourist spot for Indians, and our campus was located on a cliff right at the coast. This place was quite secluded from the main city and I was often bored and never liked the place. Every visitor we had, loved the natural beauty, the peace and the quite of the place but I guess I was too young to appreciate this nature and environment that could “evoke a sense of quiet contemplation”, but now that I don’t live there, I have finally come to appreciate what I don’t have anymore.
-The environment I would like to emulate in my project is this spot on the campus called the “Sunset point”. This was located right at the edge, on a cliff, overlooking the Arabian Sea, and was known for the beautiful sunsets, (You could see the sun going into the water, on a clear day). The path to this point was a paved walkway with street lights, it had trees and grass on either side, you could hear birds chirping  and waves hitting the rocks at the bottom of the cliff and the spot itself had benches to sit on. I would like to recreate the time of sunset, as the player walks towards this spot, he can see the sun setting. The entire atmosphere is very peaceful and perfect to depict a sense of solitude.
+Watch FINAL/Demo.mp4
 
 There are no premade assets used here.
 The game starts with the player standing on a small walk way leading to a lookout point with two benches, on a cliff, facing the sea. Textures for all the materials that can be seen,  (1) the walkway, (2) its edges  (3) Lookout point, (4) grass, (5) rocks, (6) lamp poles and (7) heads, (8) tree trunks, (9) sea water, (10) benches are all captured by an iPhone camera in Bloomington, Indiana except for tree leaves which was created in photoshop.

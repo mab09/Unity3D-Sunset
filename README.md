@@ -2,6 +2,7 @@
 Unity Version: 2018.3.0f2,
 
 Watch here - https://www.youtube.com/watch?v=ObVOLGB_Bb8
+VR Version - https://www.youtube.com/watch?v=h2YKdnPUpfg
 
 There are no premade assets used here.
 The game starts with the player standing on a small walk way leading to a lookout point with two benches, on a cliff, facing the sea. Textures for all the materials that can be seen,  (1) the walkway, (2) its edges  (3) Lookout point, (4) grass, (5) rocks, (6) lamp poles and (7) heads, (8) tree trunks, (9) sea water, (10) benches are all captured by an iPhone camera in Bloomington, Indiana except for tree leaves which was created in photoshop.
